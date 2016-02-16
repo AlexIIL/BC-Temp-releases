@@ -1,0 +1,3 @@
+Changelog for pre12:
+  - Switched to using the forge bucket for oil and fuel
+  - Added JEI compat via BCCompat
