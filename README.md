@@ -15,7 +15,8 @@ Compatibility with other mods: buildcraft-7.2.0-pre12-compat1.jar
 
 Each indervidual module: buildcraft-7.2.0-pre12-(module).jar
 
-*(where "(module)" refers to api, builders, core, energy, factory, robotics, silicon, transport)*
+*(where "(module)" refers to api, builders, core, energy, factory, robotics, silicon, transport).*
+*Dependencies: core requires api and all the others require both core and api*
 
 ## Additional Downloads
 
