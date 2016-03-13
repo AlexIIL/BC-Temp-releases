@@ -10,8 +10,9 @@ All previous releases (going back to pre12) can be found [here](https://github.c
 #### Files
 
 All of buildcraft in one jar: buildcraft-7.2.0-pre12.jar
+NOTE THAT COMPAT IS NOT INCLUDED IN THE FULL JAR!
 
-Compatibility with other mods: buildcraft-7.2.0-pre12-compat1.jar
+Compatibility with other mods: buildcraft-7.2.0-pre12-compat.jar
 
 Each indervidual module: buildcraft-7.2.0-pre12-(module).jar
 
