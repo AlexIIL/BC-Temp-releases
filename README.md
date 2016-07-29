@@ -1,6 +1,6 @@
-NOTE THAT THIS IS OUTDATED, BUILDCRAFT IS NOW UP TO 7.2.7 on the official GitHub page (https://github.com/BuildCraft/BuildCraft/releases)
+NOTE THAT THIS IS OUTDATED, BUILDCRAFT IS NOW UP TO 7.2.7 on the official GitHub page (https://github.com/BuildCraft/BuildCraft/releases).
 
-# BC-Temp-releases
+# Old info
 
 Report bugs here: https://github.com/AlexIIL/Buildcraft_1.8_Issues
 
